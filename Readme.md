@@ -41,7 +41,7 @@ PassGen Pro is a next-generation wordlist generation framework designed for secu
 
 ```bash
 # Clone repository
-git clone https://github.com/security/passgen-pro.git
+git clone https://github.com/Sec-Llama/PassGen.git
 cd passgen-pro
 
 # Install optional dependencies for full functionality
