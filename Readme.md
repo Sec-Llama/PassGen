@@ -42,7 +42,7 @@ PassGen Pro is a next-generation wordlist generation framework designed for secu
 ```bash
 # Clone repository
 git clone https://github.com/Sec-Llama/PassGen.git
-cd passgen-pro
+cd passgen
 
 # Install optional dependencies for full functionality
 pip install requests beautifulsoup4
